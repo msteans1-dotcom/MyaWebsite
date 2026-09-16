@@ -3,9 +3,9 @@
 <html>
   <head>
     <title>My Hobby Wesite</title>
-    <link rel = "stylesheet" href = "mystylessheet.css">
+    <link rel = "stylesheet" href = "mystyles.css">
     <style>
-      h1 {color: red}
+      h1 {color: pink;}
       .color1 {color: yellow}
       #color2 {color: blue}
     </style>
