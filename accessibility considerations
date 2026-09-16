@@ -16,6 +16,14 @@
 on my website. In my website, I included four hobbies. Each hobby is grouped into categories based on the kind of activity involved. For HTML, I use a tag called 
 <h1>, for heading and proper form labels. I’m also using links on my hobby website to explore each hobby and explain what it is all about. I also add clear images of 
 my hobbies. Each image will introduce that hooby is and explain what to do.</h1>
+
+
+    <h2> Other Considerations</2>
+    <ul>
+      <li>Tables</li>
+      <li>Images</li>
+      <li>Videos</li>
+    </ul>
   </body> 
 
 </html>
