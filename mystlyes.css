@@ -4,14 +4,10 @@ p {background-color: turquoise;
    color: yellow;
    }
 ul, ol {
-  background-color: green
-  color: orange
+  background-color: green;
+  color: orange;
   font-weight: bold;
 }
 @media (max_width:500px){
-   body{ background_color : light pink
+    body{ background_color : light pink; font: orange}
 } 
-@media (orientation: portrait({
-   color: purple;
-}
-
