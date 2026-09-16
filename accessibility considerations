@@ -5,7 +5,7 @@
     <title>My Hobby Wesite</title>
     <link rel = "stylesheet" href = "mystyles.css">
     <style>
-      h1 {color: pink;}
+      h1 {color: purple;}
       .color1 {color: yellow}
       #color2 {color: blue}
     </style>
