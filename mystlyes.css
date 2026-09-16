@@ -1,7 +1,7 @@
-h1{color: pink}
-p {background-color: blue}
+h1 {color: pink}
+p {background-color: blue;
    color: yellow;
-   font-size:2px
+   font-size:2px}
 .color1 { color : green}
 #color2 { color : orange}
 
