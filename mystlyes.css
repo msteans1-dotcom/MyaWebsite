@@ -1,7 +1,13 @@
-h1 {color: pink}
-p {background-color: blue;
+body {background-color: pink}
+h1 {color: red}
+p {background-color: turquoise;
    color: yellow;
-   font-size:2px}
-.color1 { color : green}
-#color2 { color : orange}
+   }
+ul, ol
+  background-color: green}
+  color: orange
+  font-weight: bold
+}
+
+
 
