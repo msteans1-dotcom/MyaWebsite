@@ -18,6 +18,12 @@
     <p> class = "color1">This styled with my custom gold color </p>
     <p id = "color2"> This is styled with my custom purple color </p>
 
+     <h1>Accessibily Considerations</h1>
+     <p> I will incorporate accessibility in my website by making it usable for everyone to explore. I would do this by making thing easy to see, easy to use, easy
+to click or control and easy to understand. I would also incorporate accessibility on my website by color, navigation, images, . I would add the right color for the
+text, background
+</p>
+
     <h2> Other Considerations</2>
     <ul>
       <li>Tables</li>
@@ -25,5 +31,4 @@
       <li>Videos</li>
     </ul>
   </body> 
-
 </html>
