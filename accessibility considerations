@@ -11,12 +11,6 @@
     </style>
   </head>
   <body>
-    <a "href=index.html"> Home </a>
-    <h1>Accessibily Considerations</h1>
-    <p> For readability this paragraph has pink background and yellow font. </p>
-    <p> These combination have a high contrast ratio. </p>
-    <p> class = "color1">This styled with my custom gold color </p>
-    <p id = "color2"> This is styled with my custom purple color </p>
 
      <h1>Accessibily Considerations</h1>
      <p> I would incorporate accessibility on my website by making it usable for everyone to use. I would also incorporate accessibility on my website by using clear 
