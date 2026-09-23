@@ -1,16 +1,12 @@
-
-<DOCTYPE html>
-<html>
+<html lang = "en">
   <head>
-    <title>My Hobby Wesite</title>
-    <link rel = "stylesheet" href = "mystyles.css">
-    <style>
-      h1 {color: purple;}
-      .color1 {color: yellow}
-      #color2 {color: blue}
-    </style>
-  </head>
-  <body>
+   <meta name-"viewpoint" content-"width-device-width, initial-scale-1">
+   <title>My Hobby Website</title>
+   <link rel = "stylesheet" href = "stylesheet.css">
+
+</head>
+<body>
+
 
      <h1>Accessibily Considerations</h1>
      <a href = I would incorporate accessibility on my website by making it usable for everyone to use. I would also incorporate accessibility on my website by using clear 
